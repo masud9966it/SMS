@@ -1,0 +1,997 @@
+﻿Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = D:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'd:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = d:\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Uninstalling assembly 'E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Uninstalling assembly 'E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.InstallLog
+   assemblypath = E:\Solutions\Service\MoveToDest\MoveToDest\bin\Debug\MoveToDest.exe
